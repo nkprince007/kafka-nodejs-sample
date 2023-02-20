@@ -1,0 +1,16 @@
+{
+  "name": "kafka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "kafkajs": "^2.2.3"
+  },
+  "devDependencies": {
+    "@types/faker": "^5.5.3"
+  }
+}
